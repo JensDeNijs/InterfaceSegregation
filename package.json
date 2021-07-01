@@ -1,0 +1,24 @@
+{
+  "name": "interfacesegregation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "old.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JensDeNijs/InterfaceSegregation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JensDeNijs/InterfaceSegregation/issues"
+  },
+  "homepage": "https://github.com/JensDeNijs/InterfaceSegregation#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

@@ -1,3 +1,4 @@
+/*
 interface UserAuth {
     checkPassword(password: string) : boolean;
     resetPassword();
@@ -118,4 +119,4 @@ resetPasswordElement.addEventListener('click', (event) => {
 
    let user = loginAsAdminElement.checked ? admin : guest;
    user.resetPassword();
-});
+});*/
